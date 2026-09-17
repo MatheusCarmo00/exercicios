@@ -1,6 +1,6 @@
 Autor: Matheus do Carmo Pereira
 
-Implementação em Python dos exercícios da lista "Python para SO – Condicional e Repetição", da disciplina de Sistemas Operacionais da FATEC Zona Leste.
+Implementação em Python dos exercícios da lista "Python para SO – Condicional e Repetição", da disciplina de Sistemas Operacionais.
 
 Exercícios:
 
